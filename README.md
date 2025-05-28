@@ -3,7 +3,7 @@
 - My hobbies outside of programming include: fishing, reading, rec-sports (baseball and basketball), spending time with family. -->
 ## Tech Stack
 - Proficiencies: Python, HTML/CSS, JavaScript, C#, MySQL, Heroku Web Service, Flask, Firebase, and more!
-- Learning: Node.js, React.js, Retool, Virtual Machine Programming, AWS, PostgreSQL, API development, Rust, and TypeScript.
+- Learning: Node.js, React.js, Retool, Virtual Machine Testing, AWS, PostgreSQL, API development, Rust, and TypeScript.
 <!--## Goals
 <!--
 **RhettPoole/RhettPoole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,14 @@
 # Rhett Poole
 Hello, GitHub! 👋
 
-I am a Computer Science student at BYU-Idaho with a drive to build efficient and user focused web applications. Over the past 3 years, as I've worked to get a degree I've had the opportunity to work for Bish's RV as a Parts Outfitter and a Service Advisor. Because of this, I've been able to model many of my projects after real world workflows, as I've been able to bounce ideas off the Technology Department and study tools applicable to their workspace.
+I am a Computer Science student at BYU-Idaho and a Tech Support I, Corporate at Fisher’s Technology, where I work across internal IT support, automation, scripting, troubleshooting, and systems administration tasks.
+
+My current work has given me hands-on experience with Microsoft 365, Power Automate, Active Directory, PowerShell, endpoint troubleshooting, business applications, and internal workflow improvement. I enjoy building practical tools that solve real operational problems, reduce repetitive work, and make technology easier for teams to use.
+
+As I continue growing as a developer, I am especially interested in automation, DevOps, internal tooling, cloud technologies, and full-stack development. Many of my projects are shaped by real workplace needs, giving me the opportunity to connect software development concepts with business processes, IT operations, and user-focused problem solving.
 
 ## Tech Stack
-- Proficiencies: Python, HTML/CSS, JavaScript, C#, MySQL, Heroku Web Service, Flask, Firebase, Retool, and more!
+- Proficiencies: Python, HTML/CSS, Erlang, JavaScript, PowerShell, C#, MySQL, Heroku Web Service, Flask, Firebase, Retool, and more!
 - Learning: Node.js, React.js, Express.js, Virtual Machine Testing (Docker), AWS, PostgreSQL, API development, Rust, TypeScript, and more!
   
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RhettPoole&layout=donut&theme=radical)](https://github.com/RhettPoole)
